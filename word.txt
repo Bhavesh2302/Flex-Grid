@@ -1,0 +1,8 @@
+******** Summary of Video *******
+
+The points that were covered in the video were that how can we make our web page layouts adjustible to multiple screen sizes using css only as the other websites make it using with other things like js and it was also stated how the element grouping work. So the problem discussed in this video was that many times developers end up using nested elements just to create some elements so to solve this problem of CSS grids are introduced with several properties that makes developing the page less painful and managable for all devices . So there are several properties in CSS grids that like grid container, grid item, grid line, grid cell, grid track, grid area and grid gap. these properties can be used to make a grid component . And also the grid-template-areas are introduced to remove the pain of remembering the components width / height percentages occupying in the grid. Lots of frameworks to make good css use multiple complex and multiple divs to create webpage but css grid can remove that pain of writing all the codes.
+
+************ where are Grids and flex  used **********
+
+Grid is 2-dimensional layout while flex is 1-dimensional layout. Grids are generally used for the large-scale layouts and flex is used for small-scale layouts. Most importantly the grids are used for both row and column while if we talk about flex it can either be user to design row or columns. Both are used to make your site responsive o compatible to differnt screen sizes.   
+
